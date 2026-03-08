@@ -28,3 +28,8 @@ dist-ssr
 PROJECT_ANALYSIS.md
 CODEBASE_ANALYSIS.md
 
+devsec-key.pem
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+terraform-provider-aws_v6.35.1_x5.exe
+.terraform/
